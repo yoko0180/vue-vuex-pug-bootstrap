@@ -9,7 +9,10 @@
   <a href="https://getbootstrap.com">
     <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" width=72 height=72>
   </a>
-
+  <a href="https://github.com/stylus/stylus">
+    <img src="http://stylus-lang.com/img/stylus-logo.svg" width=72 height=72>
+  </a>
+ 
 </p>
 
 ## Usage
