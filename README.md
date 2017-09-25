@@ -1,4 +1,4 @@
-# vue-vuex-pug-bootstrap
+# vue-vuex-pug-bootstrap-stylus
 
 <p align="center">
   <a href="https://vuejs.org" target="_blank"><img width="100px"src="https://vuejs.org/images/logo.png"></a>
