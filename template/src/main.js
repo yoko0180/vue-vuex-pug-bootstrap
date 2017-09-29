@@ -13,11 +13,5 @@ Vue.config.productionTip = false
 new Vue({
   el: '#app',
   store,
-  {{#if_eq build "runtime"}}
   render: h => h(App)
-  {{/if_eq}}
-  {{#if_eq build "standalone"}}
-  template: '<App/>',
-  components: { App }
-  {{/if_eq}}
 })
